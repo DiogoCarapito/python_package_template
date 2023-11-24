@@ -12,6 +12,6 @@ add:
 	git add .
 
 lint:
-	pylint --disable=R,C src/templatePackageDC/*.py tests/*.py
+	pylint --disable=R,C src/templatepackagedc/*.py tests/*.py
 
 all: install lint test format

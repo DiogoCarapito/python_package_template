@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import pathlib
 
 
-NAME = "templatePackageDC"
+NAME = "templatepackagedc"
 VERSION = "0.0.1"
 DESCRIPTION = "Template of a Python package"
 SOURCE = "https://github.com/DiogoCarapito/python_package_template"
