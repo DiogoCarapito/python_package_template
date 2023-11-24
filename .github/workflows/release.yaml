@@ -34,7 +34,6 @@ jobs:
       # build the package
     - name: Build
       run: python -m build .
-      
       # publish to TestPyPI
     - name: Publish to TestPyPI
       uses: pypa/gh-action-pypi-publish@release/v1

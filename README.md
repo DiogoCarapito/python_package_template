@@ -1,10 +1,13 @@
+[![Release](https://github.com/DiogoCarapito/python_package_template/actions/workflows/release.yaml/badge.svg)](https://github.com/DiogoCarapito/python_package_template/actions/workflows/release.yaml)
+
 # python_package_template
 Template for a python package
+Package available on [PyPI](https://pypi.org/project/templatepackagedc/)
+Source code on [GitHub](https://github.com/DiogoCarapito/python_package_template)
 
 It uses the following tools:
 - setup.py
 - pyproject.toml
-
 
 
 ## Cheatsheet
