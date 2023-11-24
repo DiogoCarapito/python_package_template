@@ -1,4 +1,4 @@
-from src.templatePackageDC.module1 import func1
+from src.templatepackagedc.module1 import func1
 
 
 def test_func1():
